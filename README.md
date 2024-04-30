@@ -1,3 +1,4 @@
 # myproject-demo
 This is my first Git Repository
-Author- LAkshay Dua
+<br>
+Author- Lakshay Dua
